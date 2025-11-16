@@ -10,14 +10,24 @@ background-color: antiquewhite;
 }
 .firstClass{
     margin: auto;
-    margin-top: 50px;
+    margin-top: 25px;
     width: 960;
     height: 800;
     background-color: aquamarine;
 }
+.h31{margin: auto;
+    margin-top: 25px;
+    background-color: wheat;
+}
 
 .flat{ margin: auto;
-    margin-top: 50px;
+    margin-top: 25px;
     width: 500px;
     height: 400px;
+}
+
+.cultura{  margin: auto;
+    margin-top: 50px;
+    width: 960;
+    height: 800;
 }
