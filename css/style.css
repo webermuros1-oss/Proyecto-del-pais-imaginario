@@ -1,29 +1,35 @@
-*{
-    margin: 0px;
-    padding: 0px;
-}
+*{margin: auto;
+    margin-top: 25px;
+
 body{
 margin: auto;
 width: 960px;
 height: 800px;
 background-color: antiquewhite;
 }
-.firstClass h1{
+.h1{
     margin: auto;
-    margin-top: 25px;
-    width: 320px;
+    margin-top: 50px;
+    width: 350px;
     height: 40px;
-    background-color: aqua;
+color: brown;
 }
-.h31{margin: auto;
-    margin-top: 25px;
+.h2{  margin: auto;
+    margin-top: 20px;
+    width: 500px;
+    height: 60px;
+    color: brown;
+
+}
+.h31{margin:left;
+    margin-top: 100px;
     width: 100px;
-    background-color: green;
+color: rgb(34, 129, 34);
 }
 
 .flat{ margin: auto;
     margin-top: 25px;
-    width: 500px;
+    width: 600px;
     height: 400px;
 }
 
