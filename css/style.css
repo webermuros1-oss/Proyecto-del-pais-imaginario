@@ -107,10 +107,8 @@ div{
     border-radius: 3px;
     width: 1080px;
     height: 400px;
-    margin: 20px;
-    margin-bottom: 20px;
-    width: 700px;
-    margin-left: 580px;
+    margin: auto;
+    margin-top: auto;
 }
 
 
@@ -118,7 +116,8 @@ div{
     width: 400px;
     display: flex;
     height: 300px;
-    margin-left: 750px;
+    margin: auto;
+    margin-top: 10px;
     margin-bottom: 20px;
 }
 
