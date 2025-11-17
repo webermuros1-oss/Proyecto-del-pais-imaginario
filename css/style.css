@@ -13,9 +13,9 @@ h1 {
     text-shadow: -1px -1px 0 rgb(23, 10, 77)
     ;
 }
-h2{color: rgb(192, 66, 209);
+h2{color: rgb(104, 114, 19);
     text-shadow: -1px -1px 0 rgb(23, 10, 77);
-    font-size: 30px;
+    font-size: 20px;
     margin-top: 30px;
     margin-bottom: 30px;
 }
@@ -29,12 +29,14 @@ h3{color: rgb(136, 33, 33);
 li,p {color: rgb(14, 46, 13);
         margin-top: 20px;
     margin-bottom: 20px;
+
 }
 ul{
     color:rgb(11, 12, 109);
 }
 div{
     color: rgb(88, 44, 8);
+
 }
 
 .container1{background-color: rgb(250, 171, 75);
@@ -95,6 +97,8 @@ div{
     margin: auto;
     margin-top: 20px;
     margin-bottom: 10px;
+    margin-right:350px ;
+    margin-left: 350px;
 }
 
 .diseño{
@@ -106,7 +110,7 @@ div{
     margin: 20px;
     margin-bottom: 20px;
     width: 700px;
-    margin-left: 600px;
+    margin-left: 580px;
 }
 
 
@@ -114,7 +118,7 @@ div{
     width: 400px;
     display: flex;
     height: 300px;
-    margin-left: 650px;
+    margin-left: 750px;
     margin-bottom: 20px;
 }
 
@@ -124,6 +128,7 @@ div{
     height: 700px;
     display: flex;
     margin: auto;
+    margin-left: 580px;
     margin-bottom: 20px;
 }
 .cultura{background-color: rgb(151, 207, 19);
@@ -138,4 +143,19 @@ div{
     background-color: bisque;
     border:solid;
     border-radius: 3px;
+    margin-top: 20px;
+}
+.gentilicio{
+    background-color: chocolate;
+border: 3px solid black;
+border-radius: 3px;
+margin-left: 350px;
+margin-right: 350px;
+}
+
+.piedefoto{
+    background-color: chocolate;
+border: 3px solid black;
+border-radius: 3px;
+height: 150px;
 }
