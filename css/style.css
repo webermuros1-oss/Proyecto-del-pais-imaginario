@@ -1,6 +1,6 @@
 *{margin: auto;
     margin-top: 25px;
-
+}
 body{
 margin: auto;
 width: 960px;
@@ -18,7 +18,7 @@ color: brown;
     margin-top: 20px;
     width: 500px;
     height: 60px;
-    color: brown;
+    color: rgb(29, 14, 14);
 
 }
 .h31{margin:left;
@@ -31,9 +31,4 @@ color: rgb(34, 129, 34);
     margin-top: 25px;
     width: 600px;
     height: 400px;
-}
-.cultura{margin: auto;
-    margin-top: 50px;
-    width: 960;
-    height: 800;
 }
