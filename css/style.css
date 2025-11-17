@@ -26,7 +26,7 @@ h3{color: rgb(136, 33, 33);
     margin-top: 30px;
     margin-bottom: 30px;
 }
-li,p {color: rgb(14, 82, 12);
+li,p {color: rgb(14, 46, 13);
         margin-top: 20px;
     margin-bottom: 20px;
 }
@@ -35,6 +35,14 @@ ul{
 }
 div{
     color: rgb(88, 44, 8);
+}
+
+.container1{background-color: rgb(250, 171, 75);
+    border: 3px solid black;
+    border-radius: 3px;
+    width: 1080px;
+    height: 440px;
+    margin: auto;
 }
 
 .container2 {
@@ -73,17 +81,41 @@ div{
     margin: auto;
 
 }
-.container1{background-color: rgb(250, 171, 75);
+.contenedor5{background-color: rgb(250, 171, 75);
     border: 3px solid black;
     border-radius: 3px;
     width: 1080px;
-    height: 440px;
+    height: 400px;
     margin: auto;
-
+    margin-top: 20px;
 }
+.container6{
+    background-color: rgb(250,171,75);
+    border: 3px solid black;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.diseño{
+    background-color: rgb(202, 182, 157);
+    border: 3px solid black;
+    border-radius: 3px;
+    width: 1080px;
+    height: 400px;
+    margin: 20px;
+    margin-bottom: 20px;
+    width: 700px;
+    margin-left: 600px;
+}
+
+
 .flat{border: 3px solid;
-    width: 500px;
-    
+    width: 400px;
+    display: flex;
+    height: 300px;
+    margin-left: 650px;
+    margin-bottom: 20px;
 }
 
 .image-container{
@@ -93,14 +125,13 @@ div{
     display: flex;
     margin: auto;
     margin-bottom: 20px;
-    
 }
 .cultura{background-color: rgb(151, 207, 19);
     border: 3px solid;
-column-count: 3;
-column-gap: 20px;
-column-rule: 4px dotted gray;
-margin: auto;
+    column-count: 3;
+    column-gap: 20px;
+    column-rule: 4px dotted gray;
+    margin: auto;
 }
 
 .religion{
