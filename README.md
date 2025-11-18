@@ -9,7 +9,8 @@ Este proyecto cuenta la historia de unos pocos tercios españoles, que naufragar
 
 *Captura de pantalla:   ![alt text](<Captura final proyecto pais.png>)
                         ![alt text](<Captura de pantalla 2025-11-17 220425.png>)
-
+                        ![alt text](<image/Captura de pantalla 2025-11-18 094723 (trabajo ultimo).png>)
+                        
 *githgubpaghes:
 https://github.com/webermuros1-oss/Proyecto-del-pais-imaginario.git
 
