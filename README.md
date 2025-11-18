@@ -12,3 +12,6 @@ Este proyecto cuenta la historia de unos pocos tercios españoles, que naufragar
 
 *githgubpaghes:
 https://github.com/webermuros1-oss/Proyecto-del-pais-imaginario.git
+
+
+*Lo que realmente me a costado es el CSS, todavia tengo que mucho que mejorar, pero esoy en el proceso.
