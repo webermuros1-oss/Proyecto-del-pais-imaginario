@@ -172,3 +172,9 @@ height: 150px;
     justify-content: center;
     justify-items: center;
 }
+footer{
+    background-color: bisque;
+    margin: auto;
+    border: 20px;
+    border-radius: 2%;
+}
